@@ -2,42 +2,40 @@
 
 **Bem-vindo(a)** ao meu `README.md`
 
+(https://www.linkedin.com/company/senaileopoldina/)
 # Olá, eu sou Felipe Santos 👋
 
-Sou **Desenvolvedor Full-Stack** com foco no desenvolvimento de aplicações **Web** e **Mobile**, movido pela busca constante por aprendizado, inovação e criação de soluções que gerem valor para pessoas e organizações.
+Sou um estudante e desenvolvedor em início de carreira, apaixonado por tecnologia e pelo desenvolvimento de soluções para Web e Mobile. Estou construindo minha trajetória na programação com foco em aprendizado contínuo, dedicação e evolução constante.
 
-Atualmente, concilio minha atuação profissional com minha formação em Administração, **Análise e Desenvolvimento de Sistemas  pela faculdade Fasul Educacional  e Técnico em Desenvolvimento de Sistemas pelo SENAI [SENAI SP](https://www.linkedin.com/company/senaileopoldina/), uma combinação que fortalece minha capacidade de compreender tanto os desafios técnicos quanto as necessidades estratégicas dos negócios. A formação técnica pelo SENAI tem contribuído para o desenvolvimento das minhas habilidades em programação, desenvolvimento de sistemas, lógica computacional e boas práticas da área de tecnologia.
+Atualmente, curso **Análise e Desenvolvimento de Sistemas** pela **Fasul Educacional**, **Administração** e também o **Técnico em Desenvolvimento de Sistemas pelo SENAI[(https://www.linkedin.com/company/senaileopoldina/). Essa combinação tem ampliado minha visão tanto dos aspectos técnicos quanto das necessidades de negócio, permitindo desenvolver uma base sólida para minha carreira na área de tecnologia.
 
-Como parte do meu planejamento de carreira, pretendo dar continuidade à minha formação por meio da graduação em **Ciência da Computação**, aprofundando meus conhecimentos em engenharia de software, arquitetura de sistemas, inteligência artificial, computação em nuvem e segurança da informação.
+Durante minha formação, venho adquirindo conhecimentos em lógica de programação, desenvolvimento de sistemas, bancos de dados, desenvolvimento Web e Mobile, além de boas práticas de programação e versionamento de código. Tenho interesse em transformar esse aprendizado em projetos práticos que contribuam para meu crescimento profissional.
 
-Minha experiência envolve o desenvolvimento de aplicações utilizando tecnologias para **Front-end, Back-end e Mobile**, sempre buscando aplicar boas práticas de programação, organização de código, arquitetura estruturada, desempenho e manutenção de sistemas. Também possuo conhecimentos básicos em **Cibersegurança**, buscando incorporar princípios de desenvolvimento seguro e ampliar continuamente minha compreensão sobre proteção de aplicações, dados e infraestrutura.
+Meu objetivo é continuar evoluindo como desenvolvedor e, futuramente, ingressar na graduação em **Ciência da Computação**, aprofundando meus conhecimentos em engenharia de software, arquitetura de sistemas, computação em nuvem, inteligência artificial e segurança da informação.
 
-Tenho interesse especial por áreas como desenvolvimento de software, arquitetura de aplicações, APIs, microsserviços, bancos de dados, computação em nuvem, automação, DevOps e Inteligência Artificial. Acredito que a evolução profissional depende da capacidade de aprender continuamente, adaptar-se às novas tecnologias e colaborar em equipe para construir soluções de qualidade.
-
-Mais do que desenvolver sistemas, meu objetivo é criar soluções que resolvam problemas reais, promovam inovação e entreguem resultados consistentes. Estou sempre em busca de novos desafios, oportunidades de crescimento e projetos que contribuam para meu desenvolvimento técnico e profissional.
+Estou sempre buscando aprender novas tecnologias, desenvolver projetos pessoais e colaborar com outros profissionais para adquirir experiência prática e construir soluções de qualidade.
 
 ## Áreas de Interesse
 
-* Desenvolvimento Full-Stack
-* Desenvolvimento Web
-* Desenvolvimento Mobile
-* Arquitetura de Software
-* APIs REST e Microsserviços
-* Banco de Dados
-* Computação em Nuvem
-* DevOps
-* Inteligência Artificial
-* Cibersegurança
+* 💻 Desenvolvimento Full-Stack
+* 🌐 Desenvolvimento Web
+* 📱 Desenvolvimento Mobile
+* ⚙️ APIs REST
+* 🗄️ Banco de Dados
+* ☁️ Computação em Nuvem
+* 🤖 Inteligência Artificial
+* 🔒 Cibersegurança
+* 🚀 Boas Práticas de Desenvolvimento
 
 ## Formação
 
-* 🖥️ **Técnico em Desenvolvimento de Sistemas — SENAI (em andamento)**
-* 💻 **Análise e Desenvolvimento de Sistemas (em andamento)**
-* 📊 **Administração (em andamento)**
-* 🎓 **Ciência da Computação (futura graduação)**
+* 🖥️ Técnico em Desenvolvimento de Sistemas — SENAI (em andamento)
+* 💻 Análise e Desenvolvimento de Sistemas — Fasul Educacional (em andamento)
+* 📊 Administração (em andamento)
+* 🎓 Ciência da Computação (objetivo futuro)
 
 ## Objetivo Profissional
 
-Construir uma carreira sólida na área de tecnologia, atuando no desenvolvimento de soluções modernas, escaláveis e seguras, sempre fundamentadas em boas práticas de engenharia de software e aprendizado contínuo.
+Busco minha primeira oportunidade na área de desenvolvimento de software, onde eu possa aplicar os conhecimentos adquiridos durante minha formação, aprender com profissionais experientes e evoluir constantemente.
 
-Busco contribuir para projetos inovadores, colaborar com equipes multidisciplinares e evoluir constantemente como profissional, acompanhando as transformações do setor e gerando impacto positivo por meio da tecnologia.
+Meu objetivo é construir uma carreira sólida em tecnologia, participando de projetos inovadores, desenvolvendo soluções modernas e contribuindo para o crescimento das equipes e das organizações por meio da programação.

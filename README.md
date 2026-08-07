@@ -16,32 +16,47 @@ Tenho interesse especial por áreas como desenvolvimento de software, arquitetur
 
 Mais do que desenvolver sistemas, meu objetivo é criar soluções que resolvam problemas reais, promovam inovação e entreguem resultados consistentes. Estou sempre em busca de novos desafios, oportunidades de crescimento e projetos que contribuam para meu desenvolvimento técnico e profissional.
 
-## Áreas de Interesse
+## 🌟 Áreas de Interesse
 
-- Desenvolvimento Full-Stack
-- Desenvolvimento Web
-- Desenvolvimento Mobile
-- Arquitetura de Software
-- APIs REST e Microsserviços
-- Banco de Dados
-- Computação em Nuvem
-- DevOps
-- Inteligência Artificial
-- Cibersegurança
+Além do desenvolvimento de software, tenho interesse em diferentes áreas que conectam **tecnologia, negócios e inovação**:
 
-- ## 🛠️ Minhas habilidades em desenvolvimento
-- 🗄️ **Banco de Dados**
-- 🧠 **Lógica de Programação**
-- 🏗️ **Arquitetura e Desenvolvimento de Sistemas**
-- 📚 **Aprendizado contínuo**
+- 🤖 **Inteligência Artificial e Machine Learning**
+- 🔐 **Cybersecurity e Segurança da Informação**
+- ☁️ **Cloud Computing e Infraestrutura**
+- 🏗️ **Arquitetura de Software**
+- 📱 **Desenvolvimento de Aplicações Mobile**
+- 🌐 **Desenvolvimento Web**
+- ⚙️ **Engenharia de Software**
+- 🧠 **Automação e Otimização de Processos**
+- 📊 **Dados, Análise e Business Intelligence**
+- 💡 **Inovação e Tecnologia**
+- 🚀 **Empreendedorismo e Startups**
+- 💼 **Tecnologia aplicada aos negócios**
+- 🎨 **UI/UX e Experiência do Usuário**
+- 🔗 **APIs e Integração de Sistemas**
+- 🧩 **Soluções tecnológicas para resolução de problemas**
 
+> 🚀 Tenho interesse em explorar novas tecnologias, entender diferentes áreas da computação e transformar conhecimento em soluções práticas.
+
+## 🛠️ Habilidades
+
+| Área | Habilidades |
+|---|---|
+| 💻 **Desenvolvimento** | Front-end, Back-end, Web, Mobile, APIs |
+| 🗄️ **Dados** | Banco de Dados, Modelagem e Análise |
+| 🔐 **Segurança** | Cybersecurity e Segurança da Informação |
+| ☁️ **Infraestrutura** | Computação em Nuvem e Git/GitHub |
+| 🏗️ **Engenharia** | Arquitetura de Software e Boas Práticas |
+| 📊 **Negócios** | Gestão, Processos e Análise |
+| 🤝 **Profissional** | Comunicação, Trabalho em Equipe e Proatividade |
+| 📚 **Desenvolvimento** | Aprendizado Contínuo e Resolução de Problemas |
 
 ## Formação
 
 - 🖥️ **Técnico em Desenvolvimento de Sistemas — SENAI (em andamento)**
 - 💻 **Análise e Desenvolvimento de Sistemas (em andamento)**
 - 📊 **Administração (em andamento)**
-- 🎓 **Ciência da Computação (futura graduação)
+- 🎓 **Ciência da Computação (futura graduação)**
 -
 - **Objetivo Profissional**
 

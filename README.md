@@ -6,7 +6,7 @@
 
 Sou **Desenvolvedor Full-Stack** com foco no desenvolvimento de aplicações **Web** e **Mobile**, movido pela busca constante por aprendizado, inovação e criação de soluções que gerem valor para pessoas e organizações.
 
-Atualmente, concilio minha atuação profissional com minha formação em Administração, **Análise e Desenvolvimento de Sistemas  pela faculdade Fasul https://br.linkedin.com/school/fasul-educacional/e Técnico em Desenvolvimento de Sistemas pelo SENAI [SENAI SP](https://www.linkedin.com/company/senaileopoldina/), uma combinação que fortalece minha capacidade de compreender tanto os desafios técnicos quanto as necessidades estratégicas dos negócios. A formação técnica pelo SENAI tem contribuído para o desenvolvimento das minhas habilidades em programação, desenvolvimento de sistemas, lógica computacional e boas práticas da área de tecnologia.
+Atualmente, concilio minha atuação profissional com minha formação em Administração, **Análise e Desenvolvimento de Sistemas  pela faculdade Fasul Educacional  e Técnico em Desenvolvimento de Sistemas pelo SENAI [SENAI SP](https://www.linkedin.com/company/senaileopoldina/), uma combinação que fortalece minha capacidade de compreender tanto os desafios técnicos quanto as necessidades estratégicas dos negócios. A formação técnica pelo SENAI tem contribuído para o desenvolvimento das minhas habilidades em programação, desenvolvimento de sistemas, lógica computacional e boas práticas da área de tecnologia.
 
 Como parte do meu planejamento de carreira, pretendo dar continuidade à minha formação por meio da graduação em **Ciência da Computação**, aprofundando meus conhecimentos em engenharia de software, arquitetura de sistemas, inteligência artificial, computação em nuvem e segurança da informação.
 

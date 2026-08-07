@@ -29,12 +29,21 @@ Mais do que desenvolver sistemas, meu objetivo é criar soluções que resolvam 
 - Inteligência Artificial
 - Cibersegurança
 
+- ## 🛠️ Minhas habilidades em desenvolvimento
+- 🗄️ **Banco de Dados**
+- 🧠 **Lógica de Programação**
+- 🏗️ **Arquitetura e Desenvolvimento de Sistemas**
+- 📚 **Aprendizado contínuo**
+
+
 ## Formação
 
 - 🖥️ **Técnico em Desenvolvimento de Sistemas — SENAI (em andamento)**
 - 💻 **Análise e Desenvolvimento de Sistemas (em andamento)**
 - 📊 **Administração (em andamento)**
-- 🎓 **Ciência da Computação (futura graduação)Objetivo Profissional**
+- 🎓 **Ciência da Computação (futura graduação)
+-
+- **Objetivo Profissional**
 
 -Tenho como objetivo principal em  construir uma carreira sólida na área de tecnologia, atuando no desenvolvimento de soluções modernas, escaláveis e seguras, sempre fundamentadas em boas práticas de engenharia de software e aprendizado contínuo.
 

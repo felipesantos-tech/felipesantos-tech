@@ -36,7 +36,7 @@ Além do desenvolvimento de software, tenho interesse em diferentes áreas que c
 
 > 🚀 Tenho interesse em explorar novas tecnologias, entender diferentes áreas da computação e transformar conhecimento em soluções práticas.
 
-## 🛠️ Habilidades
+## 🛠️ Habilidades em Construção
 
 | Área | Habilidades |
 |---|---|

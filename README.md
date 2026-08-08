@@ -10,8 +10,6 @@ Atualmente, concilio minha atuação profissional com minha formação em Admini
 
 Como parte do meu planejamento de carreira, pretendo dar continuidade à minha formação por meio da graduação em Ciência da Computação, aprofundando meus conhecimentos em engenharia de software, arquitetura de sistemas, inteligência artificial, computação em nuvem e segurança da informação.
 
-Minha experiência envolve o desenvolvimento de aplicações utilizando tecnologias para Front-end, Back-end e Mobile**, sempre buscando aplicar boas práticas de programação, organização de código, arquitetura estruturada, desempenho e manutenção de sistemas. Também possuo conhecimentos básicos em Cibersegurança, buscando incorporar princípios de desenvolvimento seguro e ampliar continuamente minha compreensão sobre proteção de aplicações, dados e infraestrutura.
-
 Tenho interesse especial por áreas como desenvolvimento de software, arquitetura de aplicações, APIs, microsserviços, bancos de dados, computação em nuvem, automação, DevOps e Inteligência Artificial. Acredito que a evolução profissional depende da capacidade de aprender continuamente, adaptar-se às novas tecnologias e colaborar em equipe para construir soluções de qualidade.
 
 Mais do que desenvolver sistemas, meu objetivo é criar soluções que resolvam problemas reais, promovam inovação e entreguem resultados consistentes. Estou sempre em busca de novos desafios, oportunidades de crescimento e projetos que contribuam para meu desenvolvimento técnico e profissional.

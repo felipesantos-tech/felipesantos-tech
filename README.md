@@ -4,7 +4,7 @@
 
 Olá, eu sou Felipe Santos 👋
 
-Sou Desenvolvedor Full-Stack em inicio de carreira com foco no desenvolvimento de aplicações Web e Mobile, movido pela busca constante por aprendizado, inovação e criação de soluções que gerem valor para pessoas e organizações. Acredito que a tecnologia vai além do código: ela é uma ferramenta para transformar processos, resolver problemas e gerar valor para pessoas e organizações.
+Sou estudante de tecnologia e estou no início da minha jornada na programação, construindo minha base em desenvolvimento de software e explorando diferentes áreas da computação.
 
 Atualmente, concilio minha atuação profissional com minha formação em Administração, Análise e Desenvolvimento de Sistemas  pela faculdade Fasul Educacional  e Técnico em Desenvolvimento de Sistemas pelo  [SENAI SP](https://www.linkedin.com/company/senaileopoldina/), uma combinação que fortalece minha capacidade de compreender tanto os desafios técnicos quanto as necessidades estratégicas dos negócios. A formação técnica pelo SENAI tem contribuído para o desenvolvimento das minhas habilidades em programação, desenvolvimento de sistemas, lógica computacional e boas práticas da área de tecnologia. Essa combinação entre gestão e tecnologia tem sido um dos principais diferenciais da minha formação, permitindo que eu desenvolva uma visão ampla sobre como as soluções tecnológicas podem atender às necessidades estratégicas das empresas.
 

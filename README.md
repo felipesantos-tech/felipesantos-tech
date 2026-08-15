@@ -22,11 +22,7 @@ Além do desenvolvimento de software, tenho interesse em diferentes áreas que c
 - 🔐 **Cybersecurity e Segurança da Informação**
 - ☁️ **Cloud Computing e Infraestrutura**
 - 🏗️ **Arquitetura de Software**
-- 📱 **Desenvolvimento de Aplicações Mobile**
-- 🌐 **Desenvolvimento Web**
-- ⚙️ **Engenharia de Software**
-- 🧠 **Automação e Otimização de Processos**
-- 📊 **Dados, Análise e Business Intelligence**
+  📊 **Dados, Análise e Business Intelligence**
 - 💡 **Inovação e Tecnologia**
 - 🚀 **Empreendedorismo e Startups**
 - 💼 **Tecnologia aplicada aos negócios**

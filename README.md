@@ -4,59 +4,70 @@
 
 Olá, eu sou Felipe Santos 👋
 
-Sou estudante de tecnologia e estou no início da minha jornada na programação, construindo minha base em desenvolvimento de software e explorando diferentes áreas da computação.
+# Olá, eu sou Felipe Santos 👋
 
-Atualmente, concilio minha atuação profissional com minha formação em Administração, Análise e Desenvolvimento de Sistemas  pela faculdade Fasul Educacional  e Técnico em Desenvolvimento de Sistemas pelo  [SENAI SP](https://www.linkedin.com/company/senaileopoldina/), uma combinação que fortalece minha capacidade de compreender tanto os desafios técnicos quanto as necessidades estratégicas dos negócios. A formação técnica pelo SENAI tem contribuído para o desenvolvimento das minhas habilidades em programação, desenvolvimento de sistemas, lógica computacional e boas práticas da área de tecnologia. Essa combinação entre gestão e tecnologia tem sido um dos principais diferenciais da minha formação, permitindo que eu desenvolva uma visão ampla sobre como as soluções tecnológicas podem atender às necessidades estratégicas das empresas.
+Sou estudante de tecnologia e estou no início da minha jornada na programação, desenvolvendo meus primeiros conhecimentos em lógica computacional, algoritmos e desenvolvimento de software.
 
-Como parte do meu planejamento de carreira, pretendo dar continuidade à minha formação por meio da graduação em Ciência da Computação, aprofundando meus conhecimentos em engenharia de software, arquitetura de sistemas, inteligência artificial, computação em nuvem e segurança da informação.
+Atualmente, concilio minha atuação profissional com três formações: Administração, Análise e Desenvolvimento de Sistemas pela FASUL Educacional e Técnico em Desenvolvimento de Sistemas pelo [SENAI SP](https://www.linkedin.com/company/senaileopoldina/). Essa combinação me permite explorar tanto os fundamentos da tecnologia quanto a maneira como os sistemas podem contribuir para resolver problemas e atender às necessidades dos negócios.
 
-Tenho interesse especial por áreas como desenvolvimento de software, arquitetura de aplicações, APIs, microsserviços, bancos de dados, computação em nuvem, automação, DevOps e Inteligência Artificial. Acredito que a evolução profissional depende da capacidade de aprender continuamente, adaptar-se às novas tecnologias e colaborar em equipe para construir soluções de qualidade.
+## 💻 Minha jornada na programação
 
-Mais do que desenvolver sistemas, meu objetivo é criar soluções que resolvam problemas reais, promovam inovação e entreguem resultados consistentes. Estou sempre em busca de novos desafios, oportunidades de crescimento e projetos que contribuam para meu desenvolvimento técnico e profissional.
+Estou construindo minha base técnica por meio dos estudos, da prática e do desenvolvimento de pequenos projetos. Meu foco neste momento é compreender os fundamentos da programação, aprender a estruturar soluções e transformar o conhecimento adquirido em aplicações práticas.
 
-## 🌟 Áreas de Interesse
+Tenho buscado desenvolver meu raciocínio lógico, minha capacidade de resolução de problemas e minha familiaridade com ferramentas e tecnologias utilizadas no desenvolvimento de software.
 
-Além do desenvolvimento de software, tenho interesse em diferentes áreas que conectam **tecnologia, negócios e inovação**:
+Acredito que aprender a programar vai além de escrever código: envolve compreender um problema, pensar em possíveis soluções, testar ideias, identificar erros e melhorar continuamente.
 
-- 🤖 **Inteligência Artificial e Machine Learning**
-- 🔐 **Cybersecurity e Segurança da Informação**
-- ☁️ **Cloud Computing e Infraestrutura**
-- 🏗️ **Arquitetura de Software**
-  📊 **Dados, Análise e Business Intelligence**
-- 💡 **Inovação e Tecnologia**
-- 🚀 **Empreendedorismo e Startups**
-- 💼 **Tecnologia aplicada aos negócios**
-- 🎨 **UI/UX e Experiência do Usuário**
-- 🔗 **APIs e Integração de Sistemas**
-- 🧩 **Soluções tecnológicas para resolução de problemas**
+## 🌱 Áreas que tenho interesse em explorar
 
-> 🚀 Tenho interesse em explorar novas tecnologias, entender diferentes áreas da computação e transformar conhecimento em soluções práticas.
+À medida que avanço nos estudos, busco conhecer diferentes áreas da computação para descobrir onde posso aprofundar meus conhecimentos e construir minha carreira.
 
-## 🛠️ Habilidades em Construção
+- 💻 **Desenvolvimento de Software:** lógica de programação, algoritmos e criação de aplicações.
+- 🌐 **Desenvolvimento Web:** construção de páginas, interfaces e aplicações web.
+- 🗄️ **Banco de Dados:** organização, armazenamento e consulta de informações.
+- 🔗 **APIs e Integração de Sistemas:** comunicação entre aplicações e serviços.
+- 🤖 **Inteligência Artificial e Automação:** exploração de tecnologias capazes de auxiliar na resolução de problemas.
+- ☁️ **Computação em Nuvem:** primeiros contatos com infraestrutura e serviços em nuvem.
+- 🔐 **Segurança da Informação:** compreensão dos fundamentos de segurança no desenvolvimento de sistemas.
+- 📊 **Dados e Business Intelligence:** utilização de dados para compreender processos e apoiar decisões.
+- 🎨 **UI/UX:** princípios de usabilidade e experiência do usuário.
 
-| Área | Habilidades |
+Essas áreas representam meus interesses de aprendizado e desenvolvimento, e não especializações que já domino.
+
+## 🛠️ Habilidades em desenvolvimento
+
+Atualmente, estou trabalhando na construção de uma base que me permita avançar gradualmente na área de tecnologia.
+
+| Área | Foco de aprendizado |
 |---|---|
-| 💻 **Desenvolvimento** | Front-end, Back-end, Web, Mobile, APIs |
-| 🗄️ **Dados** | Banco de Dados, Modelagem e Análise |
-| 🔐 **Segurança** | Cybersecurity e Segurança da Informação |
-| ☁️ **Infraestrutura** | Computação em Nuvem e Git/GitHub |
-| 🏗️ **Engenharia** | Arquitetura de Software e Boas Práticas |
-| 📊 **Negócios** | Gestão, Processos e Análise |
-| 🤝 **Profissional** | Comunicação, Trabalho em Equipe e Proatividade |
-| 📚 **Desenvolvimento** | Aprendizado Contínuo e Resolução de Problemas |
+| 🧠 Lógica de programação | Algoritmos, variáveis, condições, laços e funções |
+| 💻 Programação | Fundamentos da linguagem Python e prática por meio de exercícios e projetos |
+| 🖥️ Desenvolvimento de sistemas | Compreensão da estrutura e do funcionamento de aplicações |
+| 🌐 Desenvolvimento web | Fundamentos de HTML, CSS e JavaScript |
+| 🔧 Ferramentas | Uso do Git, GitHub e terminal para organizar projetos e acompanhar alterações |
+| 🗄️ Banco de dados | Fundamentos de armazenamento e organização de informações |
+| 📊 Negócios e gestão | Compreensão de processos, organização e resolução de problemas |
+| 🤝 Habilidades profissionais | Comunicação, organização, colaboração e aprendizado contínuo |
 
-## Formação
+Meu objetivo é transformar cada etapa do aprendizado em conhecimento prático, construindo projetos que demonstrem minha evolução e me ajudem a desenvolver autonomia na programação.
 
-- 🖥️ **Técnico em Desenvolvimento de Sistemas — SENAI (em andamento)**
-- 💻 **Análise e Desenvolvimento de Sistemas (em andamento)**
-- 📊 **Administração (em andamento)**
-- 🎓 **Ciência da Computação (futura graduação)**
--
-- **Objetivo Profissional**
+## 🎓 Formação acadêmica
 
--Tenho como objetivo principal em  construir uma carreira sólida na área de tecnologia, atuando no desenvolvimento de soluções modernas, escaláveis e seguras, sempre fundamentadas em boas práticas de engenharia de software e aprendizado contínuo.
+- 🖥️ **Técnico em Desenvolvimento de Sistemas — SENAI-SP** *(em andamento)*
+- 💻 **Análise e Desenvolvimento de Sistemas — FASUL Educacional** *(em andamento)*
+- 📊 **Administração — FASUL Educacional** *(em andamento)*
 
-Busco contribuir para projetos inovadores, colaborar com equipes multidisciplinares e evoluir constantemente como profissional, acompanhando as transformações do setor e gerando impacto positivo por meio da tecnologia. refaça isso com a ideia de que estou começando na programação
+Como objetivo acadêmico futuro, pretendo avaliar a continuidade da minha formação em Ciência da Computação para aprofundar meus conhecimentos em fundamentos da computação, engenharia de software e outras áreas da tecnologia.
 
+## 🎯 Meu objetivo profissional
 
+Meu objetivo é construir uma carreira sólida na área de tecnologia, começando pelo domínio dos fundamentos da programação e evoluindo por meio de estudos, projetos práticos e experiências profissionais.
+
+Busco oportunidades que me permitam aprender com outros profissionais, colaborar em equipe, enfrentar desafios reais e contribuir para o desenvolvimento de soluções tecnológicas.
+
+Quero desenvolver não apenas a capacidade de programar, mas também o raciocínio necessário para compreender problemas, avaliar alternativas e construir soluções úteis, organizadas e confiáveis.
+
+Acredito que a evolução profissional acontece com prática, curiosidade, dedicação e disposição para aprender continuamente.
+
+🚀 **Estou no começo da minha jornada, mas comprometido em transformar aprendizado em prática e construir minha trajetória na tecnologia, um projeto de cada vez.**
 

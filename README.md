@@ -2,8 +2,6 @@
 
 **Bem-vindo(a)** ao meu `README.md`
 
-Olá, eu sou Felipe Santos 👋
-
 # Olá, eu sou Felipe Santos 👋
 
 Sou estudante de tecnologia e estou no início da minha jornada na programação, desenvolvendo meus primeiros conhecimentos em lógica computacional, algoritmos e desenvolvimento de software.
